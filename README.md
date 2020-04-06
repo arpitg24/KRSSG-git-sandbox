@@ -23,6 +23,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
   Arpit Godghate/arpitg24/https://github.com/arpitg24
+  Sahil Jindal sahil132jindal
 
 ## Task 2
 
